@@ -76,7 +76,7 @@ Memory（上下文）
 ## 🛠 技术栈
 
 - Python
-- DeepSeek API（大语言模型）
+- LLM API
 - Telegram Bot API
 - Notion API
 - FastAPI
