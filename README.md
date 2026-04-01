@@ -90,3 +90,10 @@ Memory（上下文）
 git clone https://github.com/你的用户名/telegram-ai-agent.git
 cd telegram-ai-agent
 pip install -r requirements.txt
+python main.py
+
+##🔮 后续优化方向
+多 Agent 架构（Planner / Executor 分离）
+RAG（接入知识库）
+Web 可视化界面
+更复杂的工具系统（搜索 / 数据分析等）
